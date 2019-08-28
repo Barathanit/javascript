@@ -1,0 +1,9 @@
+ Operators               Name
+ >                       Greater than
+ >=                      Greater than or equal to
+ <                       Less than
+ <=                      Less than or equal to
+ ==                      Equal to
+ !=                      Not equal to
+ ===                     Equal value and type
+ !==                     Not equal value or equal type
