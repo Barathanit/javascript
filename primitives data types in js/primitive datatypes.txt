@@ -1,0 +1,16 @@
+*Numbers
+4
+5.5
+-2
+
+*Strings
+"hello india"
+"5"
+
+*Boolean
+True
+False
+
+*Null and Undefined
+Null
+undefined
