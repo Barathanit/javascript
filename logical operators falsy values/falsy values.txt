@@ -1,0 +1,7 @@
+        Logical operators False values:
+        *False
+        *0
+        *""
+        *null
+        *undefined
+        *NaN
