@@ -1,0 +1,7 @@
+   Logical Operators
+    AND, OR, and NOT.
+
+    Operators       Name        Example          Result
+    &&              AND         5 < 7 && 4!==7   True
+    ||              OR          8 < 8 || 4 === 4 True
+    !               NOT         !(7===7)         False
