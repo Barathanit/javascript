@@ -16,7 +16,7 @@ for(var i = 14; i <=27; i++){
   }
 }
 
-console.log("print")
+console.log("print all numbers divisible by 8 and 5 between 30 and 70")
 
 for(var i = 30; i <= 70; i++){
   if(i % 8 === 0 && i % 5 === 0) {
