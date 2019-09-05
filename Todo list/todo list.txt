@@ -1,0 +1,3 @@
+"new"- Add to Todo
+"list"-View all Todos
+"quit"-Quit App
