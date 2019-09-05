@@ -1,0 +1,14 @@
+                        Array methods.
+                         Objectives.
+        Push:Use push to add to the end of an array.
+
+        Pop:Use pop to remove the last item in an array.
+
+        Shift:Use shift to remove first item in an array.
+
+        Unshift:Use Unshift to add to the front of an array.
+
+        IndexOf:Use IndexOf() to find the index of an item in an array.
+
+        Slice:Use slice() to copy parts of an array.
+        
