@@ -1,5 +1,6 @@
 var mobile = ["readme", "lenovo", "nokia", "apple", "realme",];
 console.log(mobile)
+
 mobile.forEach(function(){
     console.log("mobile brands");
 });
