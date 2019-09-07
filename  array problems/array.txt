@@ -1,0 +1,5 @@
+
+PrintReverse(): write a function print PrintReverse that takes an array as an argument and prints out the elements in the array in reverse order (don't actually reverse the array itself)
+isUniform():write a function isUniform() which takes an array an argument and returns true if all elements in the array are identical.
+sumArray():write a function sumArray() that accepts an array  of numbers and returns the sum of all numbers in the array.
+max():write a function max()that accepts an array of numbers and returns the maximum number in the array.
